@@ -3,16 +3,22 @@
 ## Tables 
 
 1.Stations
+
 2.Hosts
+
 3.Shows
+
 4.Partnerships
+
 5.ShowPartnerships
+
 6.Awards
+
 7.OnlinePresence  
 
 ## Entity Relationship Diagram
 
-![alt text](./Images/ERDdiagram)
+![alt text](./ERD.png)
 
 ## Questions
 
