@@ -33,4 +33,4 @@
 9) Retrieve the stations in the "South" region launched after 2010?
 10) Rank hosts based on the number of shows they have hosted?
     
-Access solutions [Here]()
+Access solutions [Here](./92.7big_fm.sql)
